@@ -66,8 +66,9 @@
 ## 🛠 Stats
 
 | 🔥 Streak | 📊 Stats |
-|----------|----------|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=Babychandoi&theme=dracula&cache_seconds=86400) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Babychandoi&show_icons=true&theme=dracula) |
+|-----------|-------- |
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Babychandoi&theme=dracula&hide_border=true&v=4)|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Babychandoi&show_icons=true&theme=dracula) |
 
 | 🧠 Top Languages |
 |--------------------|
